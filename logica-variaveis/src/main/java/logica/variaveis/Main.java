@@ -7,9 +7,11 @@ public class Main {
 		double nota = 8.6;
 		boolean ligado = true;
 		boolean ativo = false;
-		String nome = "Carlos";
+		String nome = "Rodrigo";
 		
-		System.out.println(nome);
+		System.out.println(nota);
+		
+		System.out.println(nome + " -> " + nota);
 	}
 
 }
